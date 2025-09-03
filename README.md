@@ -1,16 +1,15 @@
-## Hi there 👋
+<table>
+<tr>
+<td width="200px">
+<img src="https://avatars.githubusercontent.com/u/123456?v=4" width="200px" />
+</td>
+<td>
 
-<!--
-**ruchi1y/ruchi1y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hola, soy Reiji  
+- 🚀 Estudiante de Ingeniería Informática  
+- 🔒 Interesado en Ciberseguridad y Blockchain  
+- 🌱 Aprendiendo Scala y bug bounty  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td>
+</tr>
+</table>
